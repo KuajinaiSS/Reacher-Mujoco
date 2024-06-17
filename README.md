@@ -24,12 +24,12 @@ en el *CMD* accederemos instalaremos gymnasium
 pip install gymnasium[mujoco]
 ```
 
-Clonaremos el repositorio en el cmd
+Clonaremos el repositorio en el *CMD*
 ```bash
-https://github.com/KuajinaiSS/Reacher-Mujoco.git
+git clone https://github.com/KuajinaiSS/Reacher-Mujoco.git
 ```
 
-abriremos el proyecto desde el cmd
+abriremos el proyecto desde el *CMD*
 ```bash
 cd Reacher-Mujoco
 code .
