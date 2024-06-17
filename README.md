@@ -19,7 +19,7 @@ verificar pip
 pip --version
 ```
 
-en el terminal accederemos instalaremos gymnasium
+en el *CMD* accederemos instalaremos gymnasium
 ```bash
 pip install gymnasium[mujoco]
 ```
