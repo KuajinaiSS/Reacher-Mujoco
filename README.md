@@ -1,6 +1,7 @@
 # Reacher-Mujoco
 
 instalamos [git](https://www.git-scm.com/downloads).
+
 instalamos [python](https://www.python.org/downloads/).
 
 ![Captura de pantalla 2024-06-17 164332](https://github.com/KuajinaiSS/Reacher-Mujoco/assets/81202594/74a5079a-4466-41e9-8f5d-44573314c89f)
